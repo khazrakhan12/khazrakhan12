@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning Next.Js React.Js..
 -  😄I am expert in HTML & CSS...
+-  Also make many projects with the help of Typescript and Javascript..
 
 <!---
 khazrakhan12/khazrakhan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
